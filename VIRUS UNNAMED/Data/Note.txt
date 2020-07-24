@@ -1,0 +1,5 @@
+Welcome to my custom virus - loosely based off MEMZTrojan by Leurak!
+This isn't perfect but here we are, I hope this is a good showcase of my skills
+and understanding.
+
+Have fun!
