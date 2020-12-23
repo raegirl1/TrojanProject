@@ -1,21 +1,21 @@
 # DOWNLOAD AT YOUR OWN RISK ‼️‼️
 
-# About
+# ❗ About
 Trojan Project based of VineMEMZ by Leurak
 
 Coded with C, Python, .Bat, Powershell
 
 this is a continual project so expect intermittent updates
 
-# Why
+# ❗ Why
 
 The real question is why did you even ask? :)
 
-# What I learned (or am learning)
+# ❗ What I learned (or am learning)
 
 I kinda learned a little about compilers. BAT files, and the structure of C++ in terms of Windows deployments. It's neat.
 
-# WHAT IT HAS
+# ❗ WHAT IT HAS
 
 Tunneling, taskbar service inactivations, errors, random file deletions. I even added dummy files for your perusal.
 
